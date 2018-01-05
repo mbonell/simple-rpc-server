@@ -6,7 +6,7 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/mbonell/rpc-server/models"
+	"github.com/mbonell/simple-rpc-server/models"
 )
 
 type Service struct {

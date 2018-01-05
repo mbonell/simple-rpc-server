@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"net/rpc"
 
-	"github.com/mbonell/rpc-server/server"
+	"github.com/mbonell/simple-rpc-server/server"
 )
 
 func main() {
